@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.hizliresim.com/awzs5vq.jpg" width="350" alt="Uygulama Görseli">
+  <img src="https://i.hizliresim.com/awzs5vq.jpg" width="200" alt="Uygulama Görseli">
 </p>
