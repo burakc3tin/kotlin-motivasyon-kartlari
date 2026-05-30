@@ -5,5 +5,9 @@
 </p>
 
 <p align="center">
+ Sınavlara hazırlanan öğrenciler için, motivasyon kazandırmak amacıyla ekrana gelen rastgele sözleri neonlu bir tema eşliğinde ve ekranda tinder usulü kaydırarak hazırlanmıştır.
+</p>
+
+<p align="center">
   <img src="https://i.hizliresim.com/awzs5vq.jpg" width="200" alt="Uygulama Görseli">
 </p>
